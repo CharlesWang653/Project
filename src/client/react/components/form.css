@@ -1,0 +1,13 @@
+img{
+  width:150px;
+  height:150px;
+}
+.avatar_div {
+  width:200px;
+  height:200px;
+}
+.form-container {
+  display: flex;
+  width: 30%;
+  margin: 0 auto;
+}
